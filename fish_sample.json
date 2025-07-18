@@ -1,0 +1,23 @@
+[
+  {
+    "name_en": "Nile Tilapia",
+    "name_sw": "Sato",
+    "scientific_name": "Oreochromis niloticus",
+    "image_url": "https://www.fishbase.se/images/species/Oreni_u0.jpg",
+    "description": "Popular freshwater fish found in Tanzanian lakes.",
+    "habitat": "Lake Victoria, rivers",
+    "distribution": "Tanzania, Kenya, Uganda",
+    "facts": ["High in protein", "Important for aquaculture"]
+  },
+  {
+    "name_en": "African Catfish",
+    "name_sw": "Kambale",
+    "scientific_name": "Clarias gariepinus",
+    "image_url": "https://www.fishbase.se/images/species/Claga_u1.jpg",
+    "description": "Common in Tanzanian rivers and lakes.",
+    "habitat": "Rivers, lakes",
+    "distribution": "Widespread in Africa",
+    "facts": ["Can breathe air", "Popular for aquaculture"]
+  }
+  // Add up to 100 species, using FishBase images and info.
+]
